@@ -1,0 +1,194 @@
+.men-category{
+    width: 400px;
+    height: 270px;
+    top: -200px;
+    left: -400px;
+    color: #FFFFFF;
+    border: 1px solid black;
+}
+.frame-4{
+    width: Hug (370px);
+height: Hug (143px);
+top: 90px;
+left: 18px;
+gap: 6px;
+border: 1px solid black;
+
+}
+.group-5{
+    width: 88px;
+    height: 143px;
+    border: 1px solid red;
+}
+.group-5 .group-4{
+    width: 88px;
+    height: 15px;
+    top: 128px;
+    border-radius: 2px;
+    border: 1px solid blue;
+    
+}
+.group-4 .add-to-cart{
+    width: 31px;
+height: 7px;
+top: 131px;
+left: 28px;
+border: 1px solid brown;
+
+}
+.add-to-cart p{
+    font-family: Khula;
+font-size: 6px;
+font-weight: 600;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+.group-4 .rectangle{
+    width: 88px;
+height: 15px;
+top: 128px;
+border-radius: 2px;
+
+}
+.rectangle p{
+   
+    color: #000000;
+}
+.frame-3{
+    width: Hug (80px);
+height: Hug (6px);
+top: 117px;
+gap: 3px;
+border: 1px solid green;
+
+}
+.frame-3 .rs-1{
+    width: 30px;
+    height: 6px;
+}
+.frame-3 .rs-1 p{
+    font-family: Khula;
+font-size: 6px;
+font-weight: 600;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.group-2{
+    width: 21px;
+    height: 6px;
+    border: 0.5px;
+    color: #8f8f8f;
+    
+}
+.group-2 .line-1{
+    width: 21px;
+top: 4.4px;
+left: 33px;
+border: 0.5px;
+
+}
+.group-2 .line-1 p{
+    color: #8f8f8f;
+border: 0.5px solid #8f8f8f;
+align-items: center;
+}
+.group-2 .rs-2{
+    width: 21px;
+height: 6px;
+left: 33px;
+
+}
+.group-2 .rs-2 p{
+    font-family: Khula;
+font-size: 6px;
+font-weight: 600;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+color: #8f8f8f;
+}
+.frame-3{
+    width: Hug (45px);
+height: Hug (12px);
+top: 2px;
+left: 2.5px;
+padding: 2px, 4px, 2px, 4px;
+border-radius: 1px;
+gap: 10px;
+color: #FFFFFF;
+}
+.frame-3 .wedding-special{
+    width: 37px;
+    height: 8px;
+}
+.frame-3 .wedding-special p{
+    font-family: Khula;
+font-size: 5px;
+font-weight: 600;
+line-height: 8px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.off{
+    width: 23px;
+    height: 6px;
+}
+.off p{
+    font-family: Khula;
+font-size: 6px;
+font-weight: 600;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+color: #FF3737;
+}
+.frame-2{
+    width: Hug (76px);
+height: Hug (11px);
+top: 104px;
+gap: 4px;
+
+
+}
+.frame-2 .men-kurta{
+    width: 42px;
+    height: 11px;
+}
+.frame-2 .men-kurta p{
+    font-family: Khula;
+font-size: 8px;
+font-weight: 600;
+line-height: 13px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.frame-2 .eliplse-1{
+    width: 2px;
+    height: 2px;
+    color: #000000;
+}
+.frame-2 .manyvar{
+    width: 24px;
+    height: 7px;
+}
+.frame-2 .manyvar p{
+    font-family: Khula;
+font-size: 6px;
+font-weight: 400;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.rectangle-3 img{
+    width: 88px;
+    height: 100px;
+    border-radius: 2px;
+}
